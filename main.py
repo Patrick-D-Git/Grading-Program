@@ -1,3 +1,5 @@
+# A simple Grading Program using dictionaries
+
 student_scores = {
   "Harry": 81,
   "Ron": 78,
@@ -24,4 +26,3 @@ for student in student_scores:
     student_grades[student] = grade
 
 print(student_grades)
-
